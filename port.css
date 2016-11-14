@@ -1,0 +1,56 @@
+.boy {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color:#b366ae;
+}
+.bac {
+    background-image: url('http://wallpaper.zone/img/9630.jpg');
+    background-size: 100%;
+}
+.bacm {
+    background-image: url('http://www.graphictechcorp.com/web/images/large/menu-8-5x11b.jpg');
+    background-size: 100%;
+}
+.pad{
+    margin-top:20px;
+    padding-right:10px;
+    }
+.ma{
+    padding-right:0px;
+}
+.imge{
+ max-width: 15%;
+ max-height: 20%;
+ margin-top: 30%;
+ margin-left:85%;
+ margin-bottom: 50%
+
+}
+.pr{
+     margin-top: 30%;
+ margin-right:60%;
+ margin-bottom: 50%
+}
+.imgol {
+    opacity:0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.prjs{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 35px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.prj{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 17px;
+}
+.pimge{
+    margin-left: 20px
+}
+.contq{
+    margin-bottom: 100px;
+}
+
